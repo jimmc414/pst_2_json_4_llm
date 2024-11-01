@@ -1,5 +1,3 @@
-Certainly! Below is a Python program that allows you to search through a PST (Personal Storage Table) file based on various criteria such as date range, sender, subject, and body content. The program extracts matching emails and outputs them in a structured JSON format.
-
 ## Overview
 
 1. **Dependencies**:
